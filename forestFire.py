@@ -13,7 +13,6 @@ X = data[1:, 1:-1]
 y = data[1:, -1]
 y = y.astype('int')
 X = X.astype('int')
-# print(X,y)
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)
 log_reg = LogisticRegression()
 
