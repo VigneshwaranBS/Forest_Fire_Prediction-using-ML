@@ -1,1 +1,1 @@
-# Forest_Fire_Prediction-using-ML
+# Forest_Fire_Prediction-usin
